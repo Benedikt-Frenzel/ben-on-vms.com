@@ -1,0 +1,11 @@
+[en]
+  title = "Ben on VMs and Stuff"
+  LanguageName = "English"
+  weight = 1
+
+[de]
+  title = "Bene über VMs und so" # just for the sake of showing this is possible
+  LanguageName = "Deutsch"
+  weight = 2
+
+  # tip: assign the default language the lowest Weight
