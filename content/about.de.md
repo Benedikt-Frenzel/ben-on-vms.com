@@ -6,7 +6,7 @@ aliases = ["ueber-uns", "ueber-mich"]
 author = "Benedikt Frenzel"
 +++
 
-Benedikt Frenzel, is a Broadcom VCF Technical Adoption Manager. He writes about vSphere, NSX, Aria, and VCF
+Benedikt Frenzel, ist Broadcom VCF Technical Adoption Manager. Er schreibt über vSphere, NSX, Aria, and VCF
 
 ---
-This is a personal blog and has no affiliation with Broadcom, Inc.
+Das ist sein privates Blog und es handelt sich um seine persönliche Meinung.
